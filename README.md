@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/GI.jpg" width="100%" alt="Juliano Pádua" />
+  <img src="assets/gi.JPG" width="100%" alt="Juliano Pádua" />
   <br/>
   <sub>Fonte: arquivo pessoal</sub>
 </p>
