@@ -21,7 +21,7 @@ O **Forest Portal** é um projeto _open-source_ que aplica infraestrutura de dad
 </p>
 
 Decidi realizar a pesquisa do meu Trabalho de Conclusão de Curso com enfoque no desempenho comparativo de modelos de Machine Learning (XGBoost, Random Forest, entre outros) para previsão de queimadas no bioma Cerrado. O fluxo de trabalho é centrado em Python, com aplicação incremental de meus conhecimentos em Ciência de Dados. A pesquisa continua e o objetivo agora é aplicar Fusão Temporal e adicionar a feature de NDVI. Você pode acompanhar minha pesquisa em:
-- [Repositório do meu TCC](git@github.com:julianopadua/TCC.git)
+- [Repositório do meu TCC](https://github.com/julianopadua/tcc)
 
 <p align="center">
   <img src="assets/tcc.jpg" width="100%" alt="TCC" />
