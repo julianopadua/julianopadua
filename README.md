@@ -6,7 +6,7 @@
 
 # Seja bem-vindo!
 
-Graduando em Engenharia de Computação na UFSCar. Trabalho em análise de dados com foco na melhoria contínua do rigor técnico dos modelos e pipelines que desenvolvo.
+Olá, sou o Juliano, mas pode me chamar de Pádua, graduando em Engenharia de Computação na UFSCar. Trabalho no mercado com análise de fraude. Já na pesquisa, meu enfoque é no desempenho de modelos de _ensemble_ na detecção de focos de incêndios.
 
 ---
 
