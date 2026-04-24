@@ -6,7 +6,7 @@
 
 # Seja bem-vindo!
 
-Olá, sou o Juliano, mas pode me chamar de Pádua. Sou graduando em Engenharia de Computação na UFSCar. Trabalho no mercado com análise de fraude. Já na pesquisa, meu enfoque é no desempenho de modelos de _ensemble_ na detecção de focos de incêndios.
+Olá, sou o Juliano, mas pode me chamar de Pádua. Sou graduando em Engenharia de Computação na UFSCar. Trabalho no mercado com análise de fraude. Também atuo com pesquisa, onde meu enfoque é no desempenho de modelos de _ensemble_ na detecção de focos de incêndios.
 
 ---
 
