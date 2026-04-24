@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="gi.JPG" width="400" alt="Juliano Pádua" />
+  <img src="gi.JPG" width="100%" alt="Juliano Pádua" />
 </div>
-<img src="GI.jpg" width="100%" alt="Banner Juliano" />
 
 # Juliano Pádua
 
