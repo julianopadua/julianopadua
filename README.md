@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/gi.JPG" width="100%" alt="Juliano Pádua" />
+  <img src="assets/gi.JPG" width="100%" alt="girafa" />
   <br/>
   <sub>Fonte: arquivo pessoal</sub>
 </p>
 
-# Juliano Pádua
+# Seja bem-vindo!
 
 Graduando em Engenharia de Computação na UFSCar. Trabalho em análise de dados com foco na melhoria contínua do rigor técnico dos modelos e pipelines que desenvolvo.
 
@@ -26,7 +26,7 @@ Decidi realizar a pesquisa do meu Trabalho de Conclusão de Curso com enfoque no
 <p align="center">
   <img src="assets/tcc.jpg" width="100%" alt="TCC" />
   <br/>
-  <sub>Fonte: [Repositório UFSCar](https://repositorio.ufscar.br/items/969fd627-d894-40be-89fb-b20127ba3f03)</sub>
+  <sub>Fonte: <a href="https://repositorio.ufscar.br/items/969fd627-d894-40be-89fb-b20127ba3f03">Repositório UFSCar</a></sub>
 </p>
 
 ---
