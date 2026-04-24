@@ -6,13 +6,13 @@
 
 # Seja bem-vindo!
 
-Olá, sou o Juliano, mas pode me chamar de Pádua, graduando em Engenharia de Computação na UFSCar. Trabalho no mercado com análise de fraude. Já na pesquisa, meu enfoque é no desempenho de modelos de _ensemble_ na detecção de focos de incêndios.
+Olá, sou o Juliano, mas pode me chamar de Pádua. Sou graduando em Engenharia de Computação na UFSCar. Trabalho no mercado com análise de fraude. Já na pesquisa, meu enfoque é no desempenho de modelos de _ensemble_ na detecção de focos de incêndios.
 
 ---
 
 ## Projetos de Pesquisa e Desenvolvimento
 
-O **Forest Portal** é um projeto _open-source_ que aplica infraestrutura de dados abertos integrando fontes públicas. Construída com Next.js e TypeScipt de um lado, Python e Supabase de outro, o projeto almeja centralizar indicadores ambientais, financeiros, sociais, etc., para análise pública. Você pode acompanhar meu progresso em:
+O **Forest Portal** é um projeto _open-source_ que aplica infraestrutura de dados abertos integrando fontes públicas. Construído com Next.js e TypeScipt de um lado, Python e Supabase de outro, o projeto almeja centralizar indicadores ambientais, financeiros, sociais, etc., para análise pública. Você pode acompanhar meu progresso em:
 - [Repositório do Forest Portal - Frontend da aplicação](https://github.com/julianopadua/forest-portal)
 - [Repositório do Forest Open Data Pipeline](https://github.com/julianopadua/forest-open-data-pipelines)
 
@@ -20,7 +20,7 @@ O **Forest Portal** é um projeto _open-source_ que aplica infraestrutura de dad
   <img src="assets/forest-portal-demo.gif" width="90%" alt="Demonstração Forest Portal" />
 </p>
 
-Já sobre meu lado acadêmico, decidi realizar a pesquisa do meu **Trabalho de Conclusão de Curso** com enfoque no desempenho comparativo de modelos de Machine Learning (XGBoost, Random Forest, entre outros) para previsão de queimadas no bioma Cerrado. O fluxo de trabalho é centrado em Python, com aplicação incremental de meus conhecimentos em Ciência de Dados. A pesquisa continua e o objetivo agora é aplicar Fusão Temporal e adicionar a feature de NDVI. Você pode acompanhar minha pesquisa em:
+Já no âmbito acadêmico, decidi realizar a pesquisa do meu **Trabalho de Conclusão de Curso** centrada no desempenho comparativo de modelos de Machine Learning (XGBoost, Random Forest, entre outros) para previsão da ocorrência de focos de incêndios (e de queimadas) no bioma Cerrado. O fluxo de trabalho é centrado em Python, com aplicação incremental de meus conhecimentos em Ciência de Dados. Mesmo após defender a monografia, minha pesquisa continua e o objetivo agora é aplicar Fusão Temporal e adicionar a feature de NDVI. Você pode acompanhar minha pesquisa em:
 - [Repositório do meu TCC](https://github.com/julianopadua/tcc)
 
 <p align="center">
